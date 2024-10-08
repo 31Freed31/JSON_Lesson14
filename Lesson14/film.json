@@ -1,0 +1,27 @@
+{
+  "title": "Requiem for a Dream",
+  "country": "USA",
+  "release_date": "2000-10-27",
+  "studio": "Thousand Words, Protozoa Pictures",
+  "screenwriter": "Hubert Selby Jr., Darren Aronofsky",
+  "director": "Darren Aronofsky",
+  "producer": "Eric Watson, Palmer West",
+  "main_cast": [
+    {
+      "character": "Harry Goldfarb",
+      "actor": "Jared Leto"
+    },
+    {
+      "character": "Sara Goldfarb",
+      "actor": "Ellen Burstyn"
+    },
+    {
+      "character": "Marion Silver",
+      "actor": "Jennifer Connelly"
+    },
+    {
+      "character": "Tyrone C. Love",
+      "actor": "Marlon Wayans"
+    }
+  ]
+}

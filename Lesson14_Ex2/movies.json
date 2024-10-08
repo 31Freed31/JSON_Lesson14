@@ -1,0 +1,92 @@
+﻿{
+  "Inception": {
+    "country": "USA",
+    "release_date": "2010-07-16",
+    "studio": "Warner Bros. Pictures",
+    "screenwriter": "Christopher Nolan",
+    "director": "Christopher Nolan",
+    "producer": "Emma Thomas, Christopher Nolan",
+    "main_cast": [
+      {
+        "character": "Dom Cobb",
+        "actor": "Leonardo DiCaprio"
+      },
+      {
+        "character": "Ariadne",
+        "actor": "Elliot Page"
+      }
+    ]
+  },
+  "Requiem for a Dream": {
+    "country": "USA",
+    "release_date": "2000-10-27",
+    "studio": "Thousand Words, Protozoa Pictures",
+    "screenwriter": "Hubert Selby Jr., Darren Aronofsky",
+    "director": "Darren Aronofsky",
+    "producer": "Eric Watson, Palmer West",
+    "main_cast": [
+      {
+        "character": "Harry Goldfarb",
+        "actor": "Jared Leto"
+      },
+      {
+        "character": "Sara Goldfarb",
+        "actor": "Ellen Burstyn"
+      }
+    ]
+  },
+  "The Matrix": {
+    "country": "USA",
+    "release_date": "1999-03-31",
+    "studio": "Warner Bros. Pictures",
+    "screenwriter": "Lana Wachowski, Lilly Wachowski",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "producer": "Joel Silver",
+    "main_cast": [
+      {
+        "character": "Neo",
+        "actor": "Keanu Reeves"
+      },
+      {
+        "character": "Morpheus",
+        "actor": "Laurence Fishburne"
+      }
+    ]
+  },
+  "Fight Club": {
+    "country": "USA",
+    "release_date": "1999-10-15",
+    "studio": "20th Century Fox",
+    "screenwriter": "Jim Uhls",
+    "director": "David Fincher",
+    "producer": "Art Linson, Ceán Chaffin",
+    "main_cast": [
+      {
+        "character": "The Narrator",
+        "actor": "Edward Norton"
+      },
+      {
+        "character": "Tyler Durden",
+        "actor": "Brad Pitt"
+      }
+    ]
+  },
+  "The Dark Knight": {
+    "country": "USA",
+    "release_date": "2008-07-18",
+    "studio": "Warner Bros. Pictures",
+    "screenwriter": "Jonathan Nolan, Christopher Nolan",
+    "director": "Christopher Nolan",
+    "producer": "Emma Thomas, Charles Roven, Christopher Nolan",
+    "main_cast": [
+      {
+        "character": "Bruce Wayne / Batman",
+        "actor": "Christian Bale"
+      },
+      {
+        "character": "The Joker",
+        "actor": "Heath Ledger"
+      }
+    ]
+  }
+}
